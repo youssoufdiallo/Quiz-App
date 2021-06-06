@@ -33,7 +33,7 @@ const quizData = [
         b: "1995",
         c: "1994",
         d: "none of above",
-        correct: "d"
+        correct: "b"
     }
 ]
 
